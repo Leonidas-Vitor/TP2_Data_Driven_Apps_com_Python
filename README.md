@@ -26,9 +26,3 @@ langchain-google-genai==2.0.4
 ## Comandos importantes
 pip install -r requirements.txt -> Instalar dependências
 uvicorn main:api --reload --port 8000 -> Inicializar a API
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-Para mais informações, entre em contato com [seu-email@dominio.com].
